@@ -1,6 +1,6 @@
 # Todo CLI
 
-This is a simple command-line application written in Rust. This application was created as a part of my journey in learning Rust, and serves as a practical exercise to implement and strengthen the skills I've acquired. As of now, I am still actively learning and improving my Rust proficiency, and this project reflects my progress and understanding of Rust's syntax and features. 
+This is a basic command-line app I made using Rust. I made it while learning Rust, using it as a hands-on exercise to get better at what I've picked up so far. Right now, I'm still diving into Rust and getting better at it, and this project shows how far I've come in understanding the ins and outs of Rust's syntax and features.
 
 ## Features
 
